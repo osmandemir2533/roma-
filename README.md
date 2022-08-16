@@ -1,4 +1,4 @@
 # roma-
 btk ikinci gün
 
-![](romaa ss.png)
+![](romass.png)
